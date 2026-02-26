@@ -37,5 +37,6 @@ public class UsuarioDAOArchivo {
             System.out.println("Error al leer los usuarios: " + e.getMessage());
             throw e;
         }
+    }
 }//fin clase DATOS
    
